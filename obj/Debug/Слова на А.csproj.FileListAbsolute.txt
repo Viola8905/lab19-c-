@@ -1,0 +1,10 @@
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\bin\Debug\Слова на А.exe.config
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\bin\Debug\Слова на А.exe
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\bin\Debug\Слова на А.pdb
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\obj\Debug\Слова на А.csprojAssemblyReference.cache
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\obj\Debug\Слова_на_А.Form1.resources
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\obj\Debug\Слова_на_А.Properties.Resources.resources
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\obj\Debug\Слова на А.csproj.GenerateResource.cache
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\obj\Debug\Слова на А.csproj.CoreCompileInputs.cache
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\obj\Debug\Слова на А.exe
+C:\Users\Віола\Desktop\лабки сiшарп\Слова на А\obj\Debug\Слова на А.pdb
